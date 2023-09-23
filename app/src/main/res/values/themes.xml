@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Calculadora" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- Primary brand color -->
+        <item name="colorPrimary">#FF9800</item>
+        <item name="colorPrimaryVariant">#FFC107</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">#FF9800</item>
+        <item name="colorSecondaryVariant">#FFC107</item>
+        <item name="colorOnSecondary">@color/black</item>
+    </style>
+
+    <style name="Theme.Calculadora" parent="Base.Theme.Calculadora" />
+</resources>
